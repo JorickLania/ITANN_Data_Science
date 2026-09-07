@@ -219,3 +219,6 @@ __marimo__/
 
 # .xml files
 * .xml
+
+# PyCharm project files
+* .iml
